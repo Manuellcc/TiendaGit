@@ -1,0 +1,8 @@
+class Articulo {
+
+	long codigo;
+	String nombre;
+	String descripcion;
+	
+
+}
