@@ -1,5 +1,6 @@
 class Factura {
 	long codigo;
+	int iva;
 	Date valor;
 	int valor;
 	String concepto;
